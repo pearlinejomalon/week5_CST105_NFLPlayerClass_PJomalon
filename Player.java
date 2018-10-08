@@ -1,3 +1,10 @@
+/**Program: NFL Player Class
+*File: Player.java
+*Summary: Design, implement and thest the NFL Player Class
+*Author: Pearl Jomalon
+Date: October 8, 2018
+**/
+
 public class Player {
 	
 	//declare global instance variables
